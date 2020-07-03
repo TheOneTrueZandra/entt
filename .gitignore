@@ -10,3 +10,5 @@ CMakeSettings.json
 
 # Bazel
 /bazel-*
+bin-int/
+bin/
